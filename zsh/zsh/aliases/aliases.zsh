@@ -40,3 +40,5 @@ alias yaupg='yay -Syyu'
 
 # Reflector Aliases
 alias mirror='sudo pacman-mirrors -f 30'
+
+#test
