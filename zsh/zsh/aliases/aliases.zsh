@@ -24,6 +24,7 @@ alias cat='bat'
 alias ip='ip -color=auto'
 alias grep='egrep --color=auto'
 alias diff='diff --color=auto'
+alias make='colormake CFLAGS="-march=native -mtune=native -O2 -pipe -falign-functions=32" -j9 -l9'
 
 # Human Readable Disk Space
 alias df='df -h'
