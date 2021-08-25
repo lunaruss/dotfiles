@@ -1,3 +1,8 @@
+############################
+# ZSH Configuration File
+############################
+
+
 # Load Exports
 source ~/.config/zsh/exports/exports.zsh
 
